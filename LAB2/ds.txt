@@ -1,0 +1,22 @@
+﻿clauses
+
+product(1, "Sandwich", a, 200).
+product(2, "Car", b, 350000).
+product(3, "Box", c, 30).
+product(4, "Phone", d, 35000).
+product(5, "Playstation 5th generation", e, 50000).
+product(6, "Cigarretes", f, 150)
+
+client("Roman",	"68594044343", 1).
+client("Valera", "88005553535", 5).
+client("Danil", "88005553532", 10).
+client("Kir", "88005553531", 2).
+client("Molly", "89025645713", 3).
+client("Bezhan", "89999625963", 7).
+
+purchase("88005553532", 3, 3, "05.06.2023").
+purchase("88005553531", 2, 1, "14.07.2019").
+purchase("88005553535", 1, 2, "05.12.2016").
+purchase("68594044343", 5, 1, "02.06.2023").
+purchase("89025645713", 6, 2, "02.02.2020").
+purchase("89999625963", 4, 10, "19.05.2023").
